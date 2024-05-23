@@ -1,0 +1,22 @@
+{
+    "general": {
+        "#source": "#translate",
+        "Change Title": "",
+        "Main Windows": "主窗口",
+        "Sub Windows": "子窗口"
+    },
+    "specials": {
+        "#source": {
+            "#comment-1": "#translate-1",
+            "#comment-2": "#translate-2"
+        },
+        "Change Size": {
+            "measuring ruler": "",
+            "size of object": ""
+        },
+        "Sub Windows": {
+            "test1": "子窗口1",
+            "test2": "子窗口2"
+        }
+    }
+}
