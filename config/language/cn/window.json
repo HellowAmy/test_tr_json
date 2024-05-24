@@ -1,19 +1,17 @@
 {
     "general": {
         "#source": "#translate",
-        "Account:": "账号：",
-        "Cancel": "取消",
-        "Director": "院长",
-        "Exit": "退出",
+        "Account:": "",
+        "Director": "",
+        "Exit": "",
         "It is the best hospital in the world": "",
-        "Login": "登录",
-        "Login Window": "登录窗口",
-        "Main Window": "主窗口",
-        "Password:": "密码：",
-        "Please enter the Password": "请输入密码",
-        "Please enter the account": "请输入账号",
-        "Student": "学生",
-        "Welcome to XX Hospital": "欢迎登录XX医院"
+        "Login": "",
+        "Login Window": "",
+        "Password:": "",
+        "Please enter the Password": "",
+        "Please enter the account": "",
+        "Student": "",
+        "Welcome to XX Hospital": ""
     },
     "specials": {
         "#source": {
@@ -21,8 +19,8 @@
             "#comment-2": "#translate-2"
         },
         "Doctor": {
-            "at hospital": "医生",
-            "at school": "博士"
+            "at hospital": "",
+            "at school": ""
         }
     }
 }

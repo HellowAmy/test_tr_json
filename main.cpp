@@ -14,7 +14,7 @@ using namespace std;
 
 void test_tr_json()
 {
-    str file = "/home/cong/open/test_qt/test_tr_json/config/language/cn/window2.json";
+    str file = "/home/cong/open/test_qt/test_tr_json/config/language/cn/cn.json";
     bool ok = Ttrs::get()->init_tr_json(file,true);
     auto sjson = Ttrs::get()->to_string();
 
@@ -59,7 +59,7 @@ void test_tr_json()
 
 void load_tr_json()
 {
-    str file = "/home/cong/open/test_qt/test_tr_json/config/language/cn/window.json";
+    str file = "/home/cong/open/test_qt/test_tr_json/config/language/cn/cn.json";
     bool ok = Ttrs::get()->init_tr_json(file,true);
     vlogd($(ok));
 }
